@@ -1,0 +1,48 @@
+POST https://api.worldslotgame.com/api/v2/provider_list
+Content-Type: application/json
+
+{
+    "agent_code": "montana",
+    "agent_token": "dcd589224ec165454fcdbb7c33e64028",
+    "game_type": "casino"
+}
+
+###
+
+POST https://api.worldslotgame.com/api/v2/game_list
+Content-Type: application/json
+
+{
+    "agent_code": "montana",
+    "agent_token": "dcd589224ec165454fcdbb7c33e64028",
+    "provider_code": "EVOLUTION_GOLD",
+    "lang": "en"
+}
+
+###
+
+POST http://localhost:5000/api/mm2/launch-game
+Content-Type: application/json
+
+{
+    "game_code": "SpeedBlackjack01",
+    "game_type": "casino",
+    "provider_code": "EVOLUTION_GOLD",
+    "user_balance": 1000,
+    "user_code": "6654c358e8eaa4fb480e2dc0"
+}
+
+###
+
+POST http://localhost:5000/api/mm2/MurderMystery2/Trading/Deposit
+Content-Type: application/json
+
+{
+  "Data": {
+    "UserId": "p_astelic",
+    "Items": {
+      "Waves_K": 1
+    }
+  },
+  "SecurityKey": "9033e0e305f247c0c3c80d0c7848c8b3"
+}

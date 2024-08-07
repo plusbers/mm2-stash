@@ -1,0 +1,51 @@
+[
+    {
+      "id": 18,
+      "slug": "daily",
+      "name": "Daily Case",
+      "image": "https://www.mm2values.com/img/Gingermint.png",
+      "price": 0,
+      "items": [
+          {
+              "name": "NZXT H9 Flow - All Black - Airflow Case",
+              "color": "red",
+              "image": "https://c1.neweggimages.com/ProductImageCompressAll300/11-146-347-10.png",
+              "price": 205.68,
+              "ticketsEnd": 10,
+              "ticketsStart": 0
+          },
+          {
+              "name": "Off-White Arrow iPhone 12 Mini Case 'Black'",
+              "color": "orange",
+              "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/970/405/original/853554_00.png.png?action=crop&width=360",
+              "price": 11.45,
+              "ticketsEnd": 250,
+              "ticketsStart": 11
+          },
+          {
+              "name": "GREATEST Magazine Issue 06 - Angus Cloud",
+              "color": "gold",
+              "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/085/682/083/original/1156837_00.png.png?action=crop&width=360",
+              "price": 8.85,
+              "ticketsEnd": 500,
+              "ticketsStart": 251
+          },
+          {
+              "name": "GREATEST Magazine Issue 08 - Clipse",
+              "color": "pink",
+              "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/705/962/original/1315604_00.png.png?action=crop&width=360",
+              "price": 5.51,
+              "ticketsEnd": 1000,
+              "ticketsStart": 501
+          },
+          {
+              "name": "Candy",
+              "color": "blue",
+              "image": "https://www.mm2values.com/img/candies16.png",
+              "price": 0.0,
+              "ticketsEnd": 100000,
+              "ticketsStart": 1001
+          }
+      ]
+    }
+  ]

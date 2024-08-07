@@ -1,0 +1,3029 @@
+[
+  {
+    "id": "1708118018",
+    "slug": "50-50",
+    "name": "50/50",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/5b1827c73a376144a6e929ad8ab194f7.png",
+    "price": 137.95,
+    "items": [
+      {
+        "name": "Air Jordan 1 Retro High '85 OG 'Metallic Burgundy'",
+        "price": 241,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/293/508/original/BQ4422_161.png.png?width=100",
+        "ticketsStart": 0,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Bricks & Wood Logo Socks 'Olive'",
+        "price": 5,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/088/712/185/original/1209638_00.png.png?action=crop&width=360",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1708118452",
+    "slug": "High-Roller",
+    "name": "High Roller",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/04055ebc3ea3cc6ad36b9b608b4c8087.png",
+    "price": 551.31,
+    "items": [
+      {
+        "name": "Gucci GG Marmont Matelasse Super Mini Bag 'Black'",
+        "price": 1148,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/768/056/original/1278382_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 15000
+      },
+      {
+        "name": "Chrome Hearts Plus Cross Allover Print Horseshoe Logo Hoodie 'Black'",
+        "price": 1000,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/710/933/original/1190103_00.png.png?action=crop&width=360",
+        "ticketsStart": 15001,
+        "ticketsEnd": 30000
+      },
+      {
+        "name": "BAPE Type 1 Bapex 'Green'",
+        "price": 820,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/483/898/original/1089405_00.png.png?action=crop&width=360",
+        "ticketsStart": 30001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Pleasures Impact Watch Cap 'Black'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/860/107/original/1072537_00.png.png?action=crop&width=360",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1710122375",
+    "slug": "Random-PC",
+    "name": "Random PC",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/e4ba3f315bd396396aad638772f2449d.png",
+    "price": 201.42,
+    "items": [
+      {
+        "name": "Acer Gaming Desktop Predator Orion 3000",
+        "price": 949,
+        "color": "gold",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/83-101-901-19.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "GIGABYTE X670E AORUS PRO X AM5 AMD Motherboard",
+        "price": 210,
+        "color": "purple",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-485-01.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 25000
+      },
+      {
+        "name": "Corsair MP600 CORE XT SSD",
+        "price": 132,
+        "color": "blue",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/20-236-988-01.png",
+        "ticketsStart": 25001,
+        "ticketsEnd": 35000
+      },
+      {
+        "name": "CORSAIR XTM70 Performance Thermal Paste",
+        "price": 115,
+        "color": "blue",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/35-181-325-01.png",
+        "ticketsStart": 35001,
+        "ticketsEnd": 68000
+      },
+      {
+        "name": "Off-White Arrow iPhone 12 Mini Case 'Black'",
+        "price": 7,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/063/970/405/original/853554_00.png.png?action=crop&width=360",
+        "ticketsStart": 68001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1710122665",
+    "slug": "Cozy-Comfort",
+    "name": "Cozy Comfort",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/5cca11745279a8b11e4177ca12ef5421.png",
+    "price": 95.45,
+    "items": [
+      {
+        "name": "Sp5der Beluga Hoodie 'Grey'",
+        "price": 200,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/250/471/original/1185693_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 13000
+      },
+      {
+        "name": "Chrome Hearts Underwear",
+        "price": 133,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/074/556/346/original/994931_00.png.png?action=crop&width=360",
+        "ticketsStart": 13001,
+        "ticketsEnd": 29000
+      },
+      {
+        "name": "BAPE Big Ape Head Tee 'Beige'",
+        "price": 102,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/873/060/original/815982_00.png?action=crop&width=600",
+        "ticketsStart": 29001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fear of God Essentials Sweatpants 'Stretch Limo'",
+        "price": 61,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/073/921/807/original/986347_00.png.png?action=crop&width=360",
+        "ticketsStart": 50001,
+        "ticketsEnd": 72000
+      },
+      {
+        "name": "Pleasures Impact Watch Cap 'Black'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/860/107/original/1072537_00.png.png?action=crop&width=360",
+        "ticketsStart": 72001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1710384100",
+    "slug": "budget-rolex",
+    "name": "Budget Rolex",
+    "image": "https://web.archive.org/web/20190104151148im_/https://app.mysterybrand.net/images/case_78d92a5c0276fb3417dd638e20d4806c.png",
+    "price": 73.03,
+    "items": [
+      {
+        "name": "BAPE Type 1 Bapex 'Green'",
+        "price": 820,
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/483/898/original/1089405_00.png.png?action=crop&width=360",
+        "color": "gold",
+        "ticketsStart": 0,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "Acer 27in 170Hz 2K Gaming Monitor",
+        "price": 155,
+        "purple": "purple",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-452-01.png",
+        "ticketsStart": 1001,
+        "ticketsEnd": 4000
+      },
+      {
+        "name": "Chrome Hearts Plus Cross Allover Print Horseshoe Logo Hoodie 'Black'",
+        "price": 1000,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/710/933/original/1190103_00.png.png?action=crop&width=360",
+        "ticketsStart": 4001,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Acer Nitro 31.5in Gaming Monitor Curved",
+        "price": 125,
+        "color": "purple",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-456-04.png",
+        "ticketsStart": 5001,
+        "ticketsEnd": 20000
+      },
+      {
+        "name": "Marine Serre Branded Daily Mask 'All Over Moon Tan'",
+        "price": 13,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/080/872/247/original/919918_00.png.png?action=crop&width=360",
+        "ticketsStart": 20001,
+        "ticketsEnd": 40000
+      },
+      {
+        "name": "Dunk Low 'Polar Blue'",
+        "price": 83,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/184/220/original/1173790_00.png.png?action=crop&width=360",
+        "ticketsStart": 40001,
+        "ticketsEnd": 60000
+      },
+      {
+        "name": "Market Lizard Tie Dye Socks 'Red Tie Dye'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/084/038/837/original/1123435_00.png.png?action=crop&width=360",
+        "ticketsStart": 60001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1710383974",
+    "slug": "10-gucci",
+    "name": "10% gucci",
+    "image": "https://web.archive.org/web/20190104150948im_/https://app.mysterybrand.net/images/632aa804acc8e9c4d572c45fa0035c0e.png",
+    "price": 140.05,
+    "items": [
+      {
+        "name": "Gucci GG Marmont Matelasse Super Mini Bag 'Black'",
+        "price": 1148,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/768/056/original/1278382_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "GREATEST Magazine Issue 08",
+        "price": 9,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/705/975/original/1315603_00.png.png?action=crop&width=360",
+        "ticketsStart": 10001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1711494805",
+    "slug": "Bape-Buds",
+    "name": "Bape & Buds",
+    "image": "http://web.archive.org/web/20181013190758im_/https://mysterybrand.net/images/ecbee8c603402c1230bef2cc27f3bd48.png",
+    "price": 141.86,
+    "items": [
+      {
+        "name": "Chrome Hearts Plus Cross Allover Print Horseshoe Logo Hoodie 'Black'",
+        "price": 1000,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/710/933/original/1190103_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 3600
+      },
+      {
+        "name": "Saint Laurent Tiny Cassandre Credit Card Wallet 'Greyish Brown'",
+        "price": 443,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/195/372/original/1268717_00.png.png?action=crop&width=360",
+        "ticketsStart": 3601,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Sp5der Beluga Hoodie 'Grey'",
+        "price": 200,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/250/471/original/1185693_00.png.png?action=crop&width=360",
+        "ticketsStart": 10001,
+        "ticketsEnd": 13300
+      },
+      {
+        "name": "BAPE Color Camo Big Ape Head Tee 'Black/Red'",
+        "price": 156,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/062/284/193/original/837549_00.png.png?action=crop&width=750",
+        "ticketsStart": 13301,
+        "ticketsEnd": 24810
+      },
+      {
+        "name": "BAPE Big Ape Head Tee 'Beige'",
+        "price": 102,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/873/060/original/815982_00.png?action=crop&width=600",
+        "ticketsStart": 24811,
+        "ticketsEnd": 37110
+      },
+      {
+        "name": "Gucci Socks 'Camel/Dark Green'",
+        "price": 74,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/126/707/original/1097215_00.png.png?action=crop&width=360",
+        "ticketsStart": 37111,
+        "ticketsEnd": 59110
+      },
+      {
+        "name": "Lemaire Mini Drop Earring 'Gold'",
+        "price": 51,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/094/019/147/original/1257652_00.png.png?action=crop&width=360",
+        "ticketsStart": 59111,
+        "ticketsEnd": 70110
+      },
+      {
+        "name": "Paris Saint-Germain David Luiz #32 Home Stadium Scarf 'Red'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/768/528/original/1223550_00.png.png?action=crop&width=360",
+        "ticketsStart": 70111,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1711594812",
+    "slug": "OnlyShoes",
+    "name": "OnlyShoes",
+    "image": "https://web.archive.org/web/20190104151148im_/https://app.mysterybrand.net/images/5afbfa82a83780e05ef3eb8899be0f17.png",
+    "price": 31.39,
+    "items": [
+      {
+        "name": "The Powerpuff Girls x Dunk Low Pro SB QS 'Buttercup'",
+        "price": 283,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/942/929/original/1252845_00.png.png?width=100",
+        "ticketsStart": 0,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "Air Jordan 1 Retro High '85 OG 'Metallic Burgundy'",
+        "price": 241,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/293/508/original/BQ4422_161.png.png?width=100",
+        "ticketsStart": 1001,
+        "ticketsEnd": 2000
+      },
+      {
+        "name": "Kobe 8 Protro 'Radiant Emerald'",
+        "price": 228,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/654/763/original/1210578_00.png.png?width=100",
+        "ticketsStart": 2001,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "Zoom Kobe 6 Protro 'Reverse Grinch'",
+        "price": 219,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/313/945/original/1124766_00.png.png?width=100",
+        "ticketsStart": 3001,
+        "ticketsEnd": 4000
+      },
+      {
+        "name": "Air Foamposite One 'Anthracite' 2023",
+        "price": 192,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/094/716/194/original/1277513_00.png.png?width=100",
+        "ticketsStart": 4001,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Air Max Plus OG 'Voltage Purple' 2024",
+        "price": 162,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/304/814/original/1304924_00.png.png?width=100",
+        "ticketsStart": 5001,
+        "ticketsEnd": 6000
+      },
+      {
+        "name": "Dunk Low CO.JP 'Reverse Curry' 2024",
+        "price": 88,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/104/892/original/1249413_00.png.png?width=100",
+        "ticketsStart": 6001,
+        "ticketsEnd": 7000
+      },
+      {
+        "name": "Dunk Low 'Vintage Michigan'",
+        "price": 82,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/554/276/original/1358572_00.png.png?width=100",
+        "ticketsStart": 7001,
+        "ticketsEnd": 8000
+      },
+      {
+        "name": "Gucci Socks 'Camel/Dark Green'",
+        "price": 74,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/126/707/original/1097215_00.png.png?action=crop&width=360",
+        "ticketsStart": 8001,
+        "ticketsEnd": 11000
+      },
+      {
+        "name": "MM6 Maison Margiela Kids Socks 'White/Black'",
+        "price": 15,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/084/465/429/original/1121810_00.png.png?action=crop&width=360",
+        "ticketsStart": 11001,
+        "ticketsEnd": 38000
+      },
+      {
+        "name": "Market Lizard Tie Dye Socks 'Red Tie Dye'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/084/038/837/original/1123435_00.png.png?action=crop&width=360",
+        "ticketsStart": 38001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712253642",
+    "slug": "CASIO-DIY",
+    "name": "CASIO DIY",
+    "image": "http://web.archive.org/web/20181013190758im_/https://mysterybrand.net/images/1344b9b3d51913b949f18d65ae2f13ba.png",
+    "price": 11.31,
+    "items": [
+      {
+        "name": "Casio GShock GM5600SG-9",
+        "price": 156,
+        "color": "gold",
+        "image": "https://i.postimg.cc/pTspz6wF/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1100
+      },
+      {
+        "name": "Casio GShock  MTPVD01B1B",
+        "price": 101,
+        "color": "red",
+        "image": "https://i.postimg.cc/xTJcNgtX/Removal-3-1-1.png",
+        "ticketsStart": 1101,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "Casio GShock  AE1400WH9A",
+        "price": 76.75,
+        "color": "red",
+        "image": "https://i.postimg.cc/Jzc1hJLZ/dadad.png",
+        "ticketsStart": 3001,
+        "ticketsEnd": 6200
+      },
+      {
+        "name": "Casio GShock  MW2407E",
+        "price": 54.4,
+        "color": "red",
+        "image": "https://i.postimg.cc/mhWsLZpm/adadadadad.png",
+        "ticketsStart": 6201,
+        "ticketsEnd": 8400
+      },
+      {
+        "name": "Casio 10160334 Watch Strap",
+        "price": 8,
+        "color": "blue",
+        "image": "https://i.postimg.cc/BQCSSHsD/Removal-791-1.png",
+        "ticketsStart": 8401,
+        "ticketsEnd": 42360
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 42361,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712253928",
+    "slug": "CASIO-DELUXE",
+    "name": "CASIO DELUXE",
+    "image": "http://web.archive.org/web/20181013190758im_/https://mysterybrand.net/images/1344b9b3d51913b949f18d65ae2f13ba.png",
+    "price": 77.68,
+    "items": [
+      {
+        "name": "Casio GShock  BAPE Limited Edition  GA110",
+        "price": 864,
+        "color": "gold",
+        "image": "https://i.postimg.cc/c4cY8FfL/dadadadad.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1290
+      },
+      {
+        "name": "Casio GShock Kith GM6900",
+        "price": 735,
+        "color": "gold",
+        "image": "https://i.postimg.cc/1X3S7R7T/adadadad.png",
+        "ticketsStart": 1291,
+        "ticketsEnd": 3180
+      },
+      {
+        "name": "Casio GShock GM2100MG1A",
+        "price": 609,
+        "color": "red",
+        "image": "https://i.postimg.cc/X7X3wJCB/removal.png",
+        "ticketsStart": 3181,
+        "ticketsEnd": 3480
+      },
+      {
+        "name": "Casio GShock Wu-Tang GM6900WTC22",
+        "price": 488,
+        "color": "red",
+        "image": "https://i.postimg.cc/rp7gYfnL/removal.png",
+        "ticketsStart": 3481,
+        "ticketsEnd": 4240
+      },
+      {
+        "name": "Casio GShock GMW-B5000GD4",
+        "price": 432,
+        "color": "red",
+        "image": "https://i.postimg.cc/Y0z30Mpp/removal.png",
+        "ticketsStart": 4241,
+        "ticketsEnd": 5140
+      },
+      {
+        "name": "Casio GShock Rick and Morty DW5600RM211",
+        "price": 315,
+        "color": "red",
+        "image": "https://i.postimg.cc/Y0z30Mpp/removal.png",
+        "ticketsStart": 5141,
+        "ticketsEnd": 7440
+      },
+      {
+        "name": "Casio GShock Precious Heart Selection  GMS2100CH1A",
+        "price": 250,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Qtk5kmvm/removal.png",
+        "ticketsStart": 7441,
+        "ticketsEnd": 10540
+      },
+      {
+        "name": "Casio GShock LTPV004G7B",
+        "price": 66.6,
+        "color": "blue",
+        "image": "https://i.postimg.cc/vTZ17sr8/removal.png",
+        "ticketsStart": 10541,
+        "ticketsEnd": 33500
+      },
+      {
+        "name": "Casio Collection Analog Wake Up Timer Digital Alarm Clock",
+        "price": 11,
+        "color": "grey",
+        "image": "https://i.postimg.cc/hvZXp5sL/removal.png",
+        "ticketsStart": 33501,
+        "ticketsEnd": 75460
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 75461,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712206741",
+    "slug": "Comfort-Wear",
+    "name": "Comfort Wear",
+    "image": "http://web.archive.org/web/20181013190752im_/https://mysterybrand.net/images/9719889bd9dc03d1177665a948035f13.png",
+    "price": 21.97,
+    "items": [
+      {
+        "name": "Sp5der Beluga Hoodie 'Grey'",
+        "price": 200,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/250/471/original/1185693_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 2500
+      },
+      {
+        "name": "Gucci Socks 'Camel/Dark Green'",
+        "price": 74,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/126/707/original/1097215_00.png.png?action=crop&width=360",
+        "ticketsStart": 2501,
+        "ticketsEnd": 5800
+      },
+      {
+        "name": "Fear of God Essentials Sweatpants 'Stretch Limo'",
+        "price": 61,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/073/921/807/original/986347_00.png.png?action=crop&width=360",
+        "ticketsStart": 5801,
+        "ticketsEnd": 9000
+      },
+      {
+        "name": "Fear of God Essentials Hoodie 'Light Oatmeal'",
+        "price": 48,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/073/921/741/original/986342_00.png.png?action=crop&width=360",
+        "ticketsStart": 9001,
+        "ticketsEnd": 11900
+      },
+      {
+        "name": "Market Smiley Sun Dye Sweatpants 'Yellow Blue Tie Dye'",
+        "price": 41,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/070/284/539/original/923343_00.png.png?action=crop&width=360",
+        "ticketsStart": 11901,
+        "ticketsEnd": 13000
+      },
+      {
+        "name": "Fear of God Essentials Sweatpants 'Dark Oatmeal'",
+        "price": 39,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/073/921/802/original/986345_00.png.png?action=crop&width=360",
+        "ticketsStart": 13001,
+        "ticketsEnd": 14900
+      },
+      {
+        "name": "Palace Polartec Powerstretch Gloves 'Orange'",
+        "price": 21,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/630/347/original/1292495_00.png.png?action=crop&width=360",
+        "ticketsStart": 14901,
+        "ticketsEnd": 35900
+      },
+      {
+        "name": "Pleasures Impact Watch Cap 'Black'",
+        "price": 11,
+        "color": "grey",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/860/107/original/1072537_00.png.png?action=crop&width=360",
+        "ticketsStart": 35901,
+        "ticketsEnd": 54900
+      },
+      {
+        "name": "2 Pack 8ML Atomizers",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/gcM9gWy9/Removal-484-1.png",
+        "ticketsStart": 54901,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712205052",
+    "slug": "Budget-Bape",
+    "name": "Budget Bape",
+    "image": "http://web.archive.org/web/20181013190829im_/https://mysterybrand.net/images/case_f5cb2aa0d635db6475345a6391235ab3.png",
+    "price": 15.36,
+    "items": [
+      {
+        "name": "BAPE Type 1 Bapex 'Green'",
+        "price": 820,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/483/898/original/1089405_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 300
+      },
+      {
+        "name": "BAPE Color Camo Big Ape Head Tee 'Black/Red'",
+        "price": 156,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/062/284/193/original/837549_00.png.png?action=crop&width=750",
+        "ticketsStart": 301,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "BAPE Big Ape Head Tee 'Beige'",
+        "price": 102,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/873/060/original/815982_00.png?action=crop&width=600",
+        "ticketsStart": 3001,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Bape Mask",
+        "price": 25,
+        "color": "purple",
+        "image": "https://i.postimg.cc/3xmwvRsC/asdgsdfhsfdghdsfgh-1.png",
+        "ticketsStart": 5001,
+        "ticketsEnd": 7000
+      },
+      {
+        "name": "Bape Grey Camo Chain",
+        "price": 25,
+        "color": "purple",
+        "image": "https://i.postimg.cc/76YPdNfm/removal-ai-3094db92-ef18-4f0e-9691-922dbaa50772-bape-ape-head-city-camo-keychai-5or-QEem.png",
+        "ticketsStart": 7001,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Bape Crew socks, Red",
+        "price": 15,
+        "color": "blue",
+        "image": "https://i.postimg.cc/NGnGCmYk/Removal-304-1.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 21000
+      },
+      {
+        "name": "Black Generic Mens Ring",
+        "price": 5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/vmGGxvLb/Removal-540.png",
+        "ticketsStart": 21001,
+        "ticketsEnd": 54000
+      },
+      {
+        "name": "16 OZ can of Coca-Cola",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/T1bPJ3y6/Untitled.png",
+        "ticketsStart": 54001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712254356",
+    "slug": "Gaming-Gear",
+    "name": "Gaming Gear",
+    "image": "http://web.archive.org/web/20181013190747im_/http://mysterybrand.net/images/762195df1744088851a75549982e56cf.png",
+    "price": 25.06,
+    "items": [
+      {
+        "name": "Acer Gaming Desktop Predator Orion 3000",
+        "price": 949,
+        "color": "gold",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/83-101-901-19.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 250
+      },
+      {
+        "name": "PS5 Console",
+        "price": 300,
+        "color": "gold",
+        "image": "https://i.postimg.cc/bNXrNkMN/Untitled.png",
+        "ticketsStart": 251,
+        "ticketsEnd": 500
+      },
+      {
+        "name": "GIGABYTE X670E AORUS PRO X AM5 AMD Motherboard",
+        "price": 210,
+        "color": "red",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/13-145-485-01.png",
+        "ticketsStart": 501,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "Acer 27in 170Hz 2K Gaming Monitor",
+        "price": 155,
+        "color": "red",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-452-01.png",
+        "ticketsStart": 1001,
+        "ticketsEnd": 3100
+      },
+      {
+        "name": "Trident 32GB (2x16) RAM RGB DDR5",
+        "price": 92,
+        "color": "purple",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/20-374-351-10.png",
+        "ticketsStart": 3101,
+        "ticketsEnd": 4860
+      },
+      {
+        "name": "Rechargeable Batteries for Xbox One/Xbox Series XS",
+        "price": 29.6,
+        "color": "blue",
+        "image": "https://i.postimg.cc/L5jHZQ74/removal.png",
+        "ticketsStart": 4861,
+        "ticketsEnd": 18550
+      },
+      {
+        "name": "Carry Case Nintendo Switch & OLED",
+        "price": 24,
+        "color": "blue",
+        "image": "https://i.postimg.cc/65N6Nw28/Screenshot-2024-04-03-130906-removebg-preview.png",
+        "ticketsStart": 18551,
+        "ticketsEnd": 25300
+      },
+      {
+        "name": "Death Stranding",
+        "price": 24,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fWYZCF2D/Screenshot-2024-04-03-132508-removebg-preview.png",
+        "ticketsStart": 25301,
+        "ticketsEnd": 36620
+      },
+      {
+        "name": "SAMA Sama-S88-BK Computer Case",
+        "price": 21,
+        "color": "blue",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/11-197-017-V11.jpg",
+        "ticketsStart": 36621,
+        "ticketsEnd": 58220
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png",
+        "ticketsStart": 58221,
+        "ticketsEnd": 98220
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 98221,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712255207",
+    "slug": "Budget-Drip",
+    "name": "Budget Drip",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/89e1c692c33f393e409b2329086cd5bc.png",
+    "price": 15.5,
+    "items": [
+      {
+        "name": "Stussy Stock Tone Logo Tee 'Red'",
+        "price": 48,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/741/834/original/806236_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 7500
+      },
+      {
+        "name": "Bape Mask",
+        "price": 25,
+        "color": "purple",
+        "image": "https://i.postimg.cc/3xmwvRsC/asdgsdfhsfdghdsfgh-1.png",
+        "ticketsStart": 7501,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Generic Men's Backpack Black",
+        "price": 24,
+        "color": "purple",
+        "image": "https://i.postimg.cc/0jP4ctjy/removal.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 12500
+      },
+      {
+        "name": "Palace Polartec Powerstretch Gloves 'Orange'",
+        "price": 21,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/630/347/original/1292495_00.png.png?action=crop&width=360",
+        "ticketsStart": 12501,
+        "ticketsEnd": 26000
+      },
+      {
+        "name": "Advisory Board Crystals Hologram Beanie 'Green'",
+        "price": 19,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/908/132/original/1241536_00.png.png?action=crop&width=360",
+        "ticketsStart": 26001,
+        "ticketsEnd": 37350
+      },
+      {
+        "name": "Bape Crew socks, Red",
+        "price": 15,
+        "color": "blue",
+        "image": "https://i.postimg.cc/NGnGCmYk/Removal-304-1.png",
+        "ticketsStart": 37351,
+        "ticketsEnd": 53890
+      },
+      {
+        "name": "CROCS THE OFFICE DUNDER MIFFLIN LOGO CHARM",
+        "price": 7,
+        "color": "blue",
+        "image": "https://i.postimg.cc/D0pcL5bD/Removal-207-1-1-removebg-preview.png",
+        "ticketsStart": 53891,
+        "ticketsEnd": 75890
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 75891,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712255839",
+    "slug": "Funko-POP",
+    "name": "Funko POP!",
+    "image": "http://web.archive.org/web/20181013190828im_/https://mysterybrand.net/images/case_12a5dce4c56beee4205b8766f0ed4e7b.png",
+    "price": 11.15,
+    "items": [
+      {
+        "name": "Pop! Captain Lev",
+        "price": 18,
+        "color": "purple",
+        "image": "https://i.postimg.cc/RFX1xGGF/68754-Ao-TS5-Levi-Ackerman-POP-GLAM-WEB.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 16970
+      },
+      {
+        "name": "Pop! Purge Trooper",
+        "price": 17,
+        "color": "purple",
+        "image": "https://i.postimg.cc/d1HCx3tZ/68282-Starwars-Purge-Trooper-POP-GLAM-WEB.png",
+        "ticketsStart": 16971,
+        "ticketsEnd": 30270
+      },
+      {
+        "name": "Pop! Panda",
+        "price": 14.4,
+        "color": "purple",
+        "image": "https://i.postimg.cc/CLf8cFyd/72046-POP-Animation-JJK-S2-Panda-GLAM-WEB.png",
+        "ticketsStart": 30271,
+        "ticketsEnd": 42770
+      },
+      {
+        "name": "Pop! Super Saiyan Goku",
+        "price": 14,
+        "color": "blue",
+        "image": "https://i.postimg.cc/pdPnVzmn/3807-1.png",
+        "ticketsStart": 42771,
+        "ticketsEnd": 49370
+      },
+      {
+        "name": "POP! Keychain Mickey Mouse",
+        "price": 3.75,
+        "color": "grey",
+        "image": "https://i.postimg.cc/gJJX8pqz/32568-1.png",
+        "ticketsStart": 49371,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712256911",
+    "slug": "Poorski-Nike",
+    "name": "Poorski Nike",
+    "image": "https://web.archive.org/web/20181013190747im_/http://mysterybrand.net/images/4296fe4c33878d2c21e27ee831964971.png",
+    "price": 18.15,
+    "items": [
+      {
+        "name": "The Powerpuff Girls x Dunk Low Pro SB QS 'Buttercup'",
+        "price": 283,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/942/929/original/1252845_00.png.png?width=100",
+        "ticketsStart": 0,
+        "ticketsEnd": 2210
+      },
+      {
+        "name": "Air Jordan 1 Retro High '85 OG 'Metallic Burgundy'",
+        "price": 241,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/293/508/original/BQ4422_161.png.png?width=100",
+        "ticketsStart": 2211,
+        "ticketsEnd": 3560
+      },
+      {
+        "name": "Zoom Kobe 6 Protro 'Reverse Grinch'",
+        "price": 219,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/313/945/original/1124766_00.png.png?width=100",
+        "ticketsStart": 3561,
+        "ticketsEnd": 4780
+      },
+      {
+        "name": "Air Jordan 3 Retro SE 'Craft Ivory'",
+        "price": 212,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/217/890/original/1301503_00.png.png?width=100",
+        "ticketsStart": 4781,
+        "ticketsEnd": 5470
+      },
+      {
+        "name": "Nike LeBron 3 The Shop Black University Red (2022)",
+        "price": 114,
+        "color": "red",
+        "image": "https://i.postimg.cc/0jKzXCBh/removal.png",
+        "ticketsStart": 5471,
+        "ticketsEnd": 5570
+      },
+      {
+        "name": "Air Force 1 '07 'Triple White'",
+        "price": 89,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/048/340/054/original/712867_00.png.png?action=crop&width=360",
+        "ticketsStart": 5571,
+        "ticketsEnd": 7220
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png",
+        "ticketsStart": 7221,
+        "ticketsEnd": 29340
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png",
+        "ticketsStart": 29341,
+        "ticketsEnd": 49100
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 49101,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712258961",
+    "slug": "Rain-Snowball",
+    "name": "Rain Snowball",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/case_2cb0c1a1baeddadb283d1068715fd468.png",
+    "price": 0.96,
+    "items": [
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 21310
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png",
+        "ticketsStart": 21311,
+        "ticketsEnd": 46310
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png",
+        "ticketsStart": 46311,
+        "ticketsEnd": 69530
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 69531,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712283442",
+    "slug": "Computer-Basics",
+    "name": "Computer Basics",
+    "image": "http://web.archive.org/web/20181013190747im_/http://mysterybrand.net/images/case_480e48abab94b35a4bc4229b4fbb155a.png",
+    "price": 27.73,
+    "items": [
+      {
+        "name": "Acer 27in 170Hz 2K Gaming Monitor",
+        "price": 155,
+        "color": "gold",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-452-01.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Razer Basilisk Ultimate HyperSpeed Wireless Gaming Mouse",
+        "price": 95,
+        "color": "red",
+        "image": "https://i.postimg.cc/pTF9qZ74/removal.png",
+        "ticketsStart": 5001,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Trident 32GB (2x16) RAM RGB DDR5",
+        "price": 92,
+        "color": "red",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/20-374-351-10.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 15000
+      },
+      {
+        "name": "Razer DeathAdder Essential Gaming Mouse",
+        "price": 33.33,
+        "color": "purple",
+        "image": "https://i.postimg.cc/CxxzWYXj/removal.png",
+        "ticketsStart": 15001,
+        "ticketsEnd": 25000
+      },
+      {
+        "name": "Wage Universal Wired Gaming Headset",
+        "price": 17,
+        "color": "blue",
+        "image": "https://i.postimg.cc/KYK48fZj/removal.png",
+        "ticketsStart": 25001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712283374",
+    "slug": "10-Budget",
+    "name": "10% Budget",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/48d9bbe252bdeb662abd6c3a7b8ff074.png",
+    "price": 2.53,
+    "items": [
+      {
+        "name": "BAPE Big Ape Head Tee 'Beige'",
+        "price": 102,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/873/060/original/815982_00.png?action=crop&width=600",
+        "ticketsStart": 0,
+        "ticketsEnd": 50
+      },
+      {
+        "name": "Converse Pokemon 25th Celebration Hoodie Black",
+        "price": 96,
+        "color": "gold",
+        "image": "https://i.postimg.cc/0jjBTzYT/removal.png",
+        "ticketsStart": 51,
+        "ticketsEnd": 110
+      },
+      {
+        "name": "Dunk Low CO.JP 'Reverse Curry' 2024",
+        "price": 88,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/104/892/original/1249413_00.png.png?width=100",
+        "ticketsStart": 111,
+        "ticketsEnd": 610
+      },
+      {
+        "name": "Drake Anita Max Wynn Hat Pink",
+        "price": 56,
+        "color": "red",
+        "image": "https://i.postimg.cc/PxjhnQJB/Removal-841-1-1.png",
+        "ticketsStart": 611,
+        "ticketsEnd": 840
+      },
+      {
+        "name": "Off-White New Logo Face Mask Black/White",
+        "price": 34,
+        "color": "red",
+        "image": "hhttps://i.postimg.cc/FHwND44F/Removal-87-1-1.png",
+        "ticketsStart": 841,
+        "ticketsEnd": 2140
+      },
+      {
+        "name": "Rechargeable Batteries for Xbox One/Xbox Series XS",
+        "price": 29.6,
+        "color": "red",
+        "image": "https://i.postimg.cc/L5jHZQ74/removal.png",
+        "ticketsStart": 2141,
+        "ticketsEnd": 2840
+      },
+      {
+        "name": "Resident Evil 8: Village Steam Digital Code",
+        "price": 25,
+        "color": "purple",
+        "image": "https://i.postimg.cc/sD6VGWHh/Screenshot-2024-04-03-130112-removebg-preview.png",
+        "ticketsStart": 2841,
+        "ticketsEnd": 4000
+      },
+      {
+        "name": "Barbie Script Necklace",
+        "price": 19,
+        "color": "purple",
+        "image": "https://i.postimg.cc/6593vt9D/Removal-503-1.png",
+        "ticketsStart": 4001,
+        "ticketsEnd": 4350
+      },
+      {
+        "name": "Tom Clanceys Rainbow Six Siege",
+        "price": 8.49,
+        "color": "purple",
+        "image": "https://i.postimg.cc/CMC55zVG/removal.png",
+        "ticketsStart": 4351,
+        "ticketsEnd": 10050
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png",
+        "ticketsStart": 10051,
+        "ticketsEnd": 12050
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+        "ticketsStart": 12051,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712284179",
+    "slug": "Supreme-Only",
+    "name": "Supreme Only",
+    "image": "https://web.archive.org/web/20190312044412im_/https://app.mysterybrand.net/images/99238a66ff6859fc27fc1b3d0f90b241.png",
+    "price": 5.65,
+    "items": [
+      {
+        "name": "Supreme Rotring 600 3-in-1 Silver",
+        "price": 94,
+        "color": "gold",
+        "image": "https://i.postimg.cc/V6LGtJVJ/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1300
+      },
+      {
+        "name": "Supreme Handcuffs Keychain Silver",
+        "price": 71,
+        "color": "gold",
+        "image": "https://i.postimg.cc/qqN1m900/removal.png",
+        "ticketsStart": 1301,
+        "ticketsEnd": 2500
+      },
+      {
+        "name": "Supreme Glass Spray Bottle Red",
+        "price": 66,
+        "color": "gold",
+        "image": "https://i.postimg.cc/nhb3kRWb/removal.png",
+        "ticketsStart": 2501,
+        "ticketsEnd": 3150
+      },
+      {
+        "name": "Supreme Spitfire Skate Tool Red",
+        "price": 62,
+        "color": "red",
+        "image": "https://i.postimg.cc/Kzzfzd1L/removal.png",
+        "ticketsStart": 3151,
+        "ticketsEnd": 3480
+      },
+      {
+        "name": "supreme Super Soaker 50 Water Blaster White",
+        "price": 55,
+        "color": "red",
+        "image": "https://i.postimg.cc/FFSWLXPg/removal.png",
+        "ticketsStart": 3481,
+        "ticketsEnd": 4140
+      },
+      {
+        "name": "Supreme Hand Mirror White",
+        "price": 50,
+        "color": "red",
+        "image": "https://i.postimg.cc/1z4MRknF/dfhgsdfghsdfhs.png",
+        "ticketsStart": 4141,
+        "ticketsEnd": 5100
+      },
+      {
+        "name": "Supreme Audubon Bird Call Red",
+        "price": 46,
+        "color": "red",
+        "image": "https://i.postimg.cc/xCzRMLPT/removal.png",
+        "ticketsStart": 5101,
+        "ticketsEnd": 6430
+      },
+      {
+        "name": "Supreme Raymay Pocket Microscope Keychain White",
+        "price": 41,
+        "color": "red",
+        "image": "https://i.postimg.cc/cCGcm6D7/removal.png",
+        "ticketsStart": 6431,
+        "ticketsEnd": 7650
+      },
+      {
+        "name": "Supreme x Ballpark Poncho 'White'",
+        "price": 20,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/854/458/original/638491_00.png.png?action=crop&width=360",
+        "ticketsStart": 7651,
+        "ticketsEnd": 9320
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "color": "grey",
+        "price": 0.01,
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 9321,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712284032",
+    "slug": "Rag-to-Riches",
+    "name": "Rag To Riches",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/2da7b2f5cc4446a5567566186f63070c.png",
+    "price": 1.19,
+    "items": [
+      {
+        "name": "Bioshock Infinite Steam Digital Code",
+        "price": 5,
+        "color": "red",
+        "image": "https://i.postimg.cc/j2hy4cnK/Screenshot-2024-04-03-132216-removebg-preview.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Plastic Glasses",
+        "price": 3.75,
+        "color": "purple",
+        "image": "https://i.postimg.cc/WzskzZWy/Removal-661-1-1.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 20000
+      },
+      {
+        "name": "Fullsend $0.50 Voucher",
+        "price": 0.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/rw7RW3Zx/Untitled.png558855a780135adef6d6c9174d2c3783a109c09997cec7a2f8ca8a4ee2&format=webp&quality=lossless&",
+        "ticketsStart": 20001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712285592",
+    "slug": "Rich-Vs-Poor",
+    "name": "Rich Vs Poor",
+    "image": "http://web.archive.org/web/20181013190750im_/https://mysterybrand.net/images/1e12be0828af5278a2dc84c43baa2110.png",
+    "price": 1.98,
+    "items": [
+      {
+        "name": "Ozark Trail 40 oz Vacuum Insulated Stainless Steel Tumbler Black",
+        "price": 10,
+        "color": "red",
+        "image": "https://i.postimg.cc/5t0142Sm/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 3001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fullsend $0.50 Voucher",
+        "price": 0.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/rw7RW3Zx/Untitled.png558855a780135adef6d6c9174d2c3783a109c09997cec7a2f8ca8a4ee2&format=webp&quality=lossless&",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712285017",
+    "slug": "Daily Drip",
+    "name": "Daily Drip",
+    "image": "http://web.archive.org/web/20181013190750im_/https://mysterybrand.net/images/1e12be0828af5278a2dc84c43baa2110.png",
+    "price": 6.49,
+    "items": [
+      {
+        "name": "Minecraft Creeper Beanie Hat",
+        "price": 17,
+        "color": "red",
+        "image": "https://i.postimg.cc/FHP5BQXk/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Bape Crew socks, Red",
+        "price": 15,
+        "color": "purple",
+        "image": "https://i.postimg.cc/NGnGCmYk/Removal-304-1.png",
+        "ticketsStart": 5001,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Paris Saint-Germain David Luiz #32 Home Stadium Scarf 'Red'",
+        "price": 11,
+        "color": "blue",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/092/768/528/original/1223550_00.png.png?action=crop&width=360",
+        "ticketsStart": 10001,
+        "ticketsEnd": 25000
+      },
+      {
+        "name": "3 Pack Cleaning socks",
+        "price": 5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/j2YG7xPm/removal-ai-761db71c-ac0f-489c-854b-54114d9ee962-image-1.png",
+        "ticketsStart": 25001,
+        "ticketsEnd": 75000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 75001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712291588",
+    "slug": "No-Stank",
+    "name": "No Stank",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/case_b4a77ac03edb14e95cdfd2a806df1fb7.png",
+    "price": 21.01,
+    "items": [
+      {
+        "name": "Trish McEvoy Eau de Parfum, 100ml",
+        "price": 284,
+        "color": "gold",
+        "image": "https://i.postimg.cc/J4mf7h1B/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1100
+      },
+      {
+        "name": "Jean Paul Gaultier La Belle Eau de Parfum Spray 100ml",
+        "price": 144.5,
+        "color": "gold",
+        "image": "https://i.postimg.cc/P550ZFvX/removal.png",
+        "ticketsStart": 1101,
+        "ticketsEnd": 2400
+      },
+      {
+        "name": "Rabanne Phantom Eau de Toilette 100ml",
+        "price": 132.5,
+        "color": "red",
+        "image": "https://i.postimg.cc/KYdW6Gqj/removal.png",
+        "ticketsStart": 2401,
+        "ticketsEnd": 4100
+      },
+      {
+        "name": "Marc Jacobs Daisy Dream Eau de Toilette 100ml",
+        "price": 120.3,
+        "color": "red",
+        "image": "https://i.postimg.cc/brPBv6jj/removal.png",
+        "ticketsStart": 4101,
+        "ticketsEnd": 4350
+      },
+      {
+        "name": "Versace Eros Eau de Parfum 200ML",
+        "price": 110.3,
+        "color": "red",
+        "image": "https://i.postimg.cc/MHYrfyWf/removal.png",
+        "ticketsStart": 4351,
+        "ticketsEnd": 4700
+      },
+      {
+        "name": "Jimmy Choo Urban Hero Eau de Parfum Spray 50ml",
+        "price": 79,
+        "color": "purple",
+        "image": "https://i.postimg.cc/9XPkkjGX/removal.png",
+        "ticketsStart": 4701,
+        "ticketsEnd": 10950
+      },
+      {
+        "name": "So…? Unique Womens Truffle Cream Body Mist Fragrance, 150ml",
+        "price": 12,
+        "color": "blue",
+        "image": "https://i.postimg.cc/Ghq5cJ7Z/removal.png",
+        "ticketsStart": 10951,
+        "ticketsEnd": 33860
+      },
+      {
+        "name": "Charlie Red Body Fragrance 75ml",
+        "price": 5.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/QxxfnK8S/removal.png",
+        "ticketsStart": 33861,
+        "ticketsEnd": 57310
+      },
+      {
+        "name": "Old Spice AntiPerspirant Deodorant",
+        "price": 5.1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/ZqkFZWSG/removal.png",
+        "ticketsStart": 57311,
+        "ticketsEnd": 89210
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 89211,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712291782",
+    "slug": "Budget-Minecraft",
+    "name": "Budget Minecraft",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/62c8d96b28608587583b62f57cf1cace.png",
+    "price": 6.57,
+    "items": [
+      {
+        "name": "Minecraft Pig Money Bank",
+        "price": 26,
+        "color": "red",
+        "image": "https://i.postimg.cc/brd21PP0/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 6300
+      },
+      {
+        "name": "Minecraft Creeper Beanie Hat",
+        "price": 17,
+        "color": "red",
+        "image": "https://i.postimg.cc/FHP5BQXk/removal.png",
+        "ticketsStart": 6301,
+        "ticketsEnd": 17510
+      },
+      {
+        "name": "Minecraft Torch Bottle",
+        "price": 10,
+        "color": "purple",
+        "image": "https://i.postimg.cc/m2sPb7zN/removal.png",
+        "ticketsStart": 17511,
+        "ticketsEnd": 23760
+      },
+      {
+        "name": "Minecraft Torch Keyring",
+        "price": 6,
+        "color": "blue",
+        "image": "hhttps://i.postimg.cc/x1jqmYPX/removal.png",
+        "ticketsStart": 23761,
+        "ticketsEnd": 50260
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 50261,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712292068",
+    "slug": "Clothing-Needs",
+    "name": "Clothing Needs",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/ffa4bfe2f815e7b1cabb755335264735.png",
+    "price": 2.86,
+    "items": [
+      {
+        "name": "Gucci Socks 'Camel/Dark Green'",
+        "price": 74,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/126/707/original/1097215_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 250
+      },
+      {
+        "name": "Pickle Rick Slipper Socks",
+        "price": 25.03,
+        "color": "gold",
+        "image": "https://i.postimg.cc/sfp2016B/JUYKTKU.png",
+        "ticketsStart": 251,
+        "ticketsEnd": 500
+      },
+      {
+        "name": "Charizard Crew Socks (One Size-Adult)",
+        "price": 15.5,
+        "color": "red",
+        "image": "https://i.postimg.cc/ncpL8Zg3/removal.png",
+        "ticketsStart": 501,
+        "ticketsEnd": 750
+      },
+      {
+        "name": "Bape Crew socks, Red",
+        "price": 15,
+        "color": "red",
+        "image": "https://i.postimg.cc/NGnGCmYk/Removal-304-1.png",
+        "ticketsStart": 751,
+        "ticketsEnd": 1080
+      },
+      {
+        "name": "MM6 Maison Margiela Kids Socks 'White/Black'",
+        "price": 15,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/084/465/429/original/1121810_00.png.png?action=crop&width=360",
+        "ticketsStart": 1081,
+        "ticketsEnd": 1450
+      },
+      {
+        "name": "Bape Crew socks, Red",
+        "price": 15,
+        "color": "red",
+        "image": "https://i.postimg.cc/NGnGCmYk/Removal-304-1.png",
+        "ticketsStart": 1451,
+        "ticketsEnd": 2550
+      },
+      {
+        "name": "Mr Beast Particle Socks Black/White",
+        "price": 14,
+        "color": "red",
+        "image": "https://i.postimg.cc/26dfTLkr/removal.png",
+        "ticketsStart": 2551,
+        "ticketsEnd": 4650
+      },
+      {
+        "name": "Vans Checkerboard Crew Sock",
+        "price": 11,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Ssfwc0dK/removal.png",
+        "ticketsStart": 4651,
+        "ticketsEnd": 15950
+      },
+      {
+        "name": "3 Pack Cleaning socks",
+        "price": 5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/j2YG7xPm/removal-ai-761db71c-ac0f-489c-854b-54114d9ee962-image-1.png",
+        "ticketsStart": 15951,
+        "ticketsEnd": 23620
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 23621,
+        "ticketsEnd": 48620
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 48621,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712294334",
+    "slug": "Rags-to-Rags",
+    "name": "Rags to Rags",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/case_e71f85865ba734a2ecb53eb4869df5ee.png",
+    "price": 0.35,
+    "items": [
+      {
+        "name": "Plastic Glasses",
+        "price": 3.75,
+        "color": "red",
+        "image": "https://i.postimg.cc/WzskzZWy/Removal-661-1-1.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 3500
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 3501,
+        "ticketsEnd": 6250
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 6251,
+        "ticketsEnd": 12700
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 12701,
+        "ticketsEnd": 24260
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 24261,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712293918",
+    "slug": "Brokie-Flip",
+    "name": "Brokie Flip",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/460bbab855d33ab121b874653833a687.png",
+    "price": 11.77,
+    "items": [
+      {
+        "name": "Supreme x Ballpark Poncho 'White'",
+        "price": 20,
+        "color": "purple",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/854/458/original/638491_00.png.png?action=crop&width=360",
+        "ticketsStart": 0,
+        "ticketsEnd": 40000
+      },
+      {
+        "name": "'Burberry Style' Keychain",
+        "price": 10,
+        "color": "blue",
+        "image": "https://i.postimg.cc/gJbxnhtW/Removal-278-1-1.png",
+        "ticketsStart": 40001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Prime Hydration Strawberry Watermelon",
+        "price": 3,
+        "color": "grey",
+        "image": "https://i.postimg.cc/k4YLTNrr/removal.png",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712294821",
+    "slug": "13-Nintendo",
+    "name": "13% Nintendo",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/3b933644584236b68d989c5b3fceb0ff.png",
+    "price": 1.96,
+    "items": [
+      {
+        "name": "Carry Case Nintendo Switch & OLED",
+        "price": 24,
+        "color": "gold",
+        "image": "https://i.postimg.cc/65N6Nw28/Screenshot-2024-04-03-130906-removebg-preview.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1250
+      },
+      {
+        "name": "Nintendo Play Stand",
+        "price": 18,
+        "color": "red",
+        "image": "https://i.postimg.cc/MHcNNcxn/Removal-644-2-1-1.png",
+        "ticketsStart": 1251,
+        "ticketsEnd": 2600
+      },
+      {
+        "name": "Nintendo Protection Case Champions Of Hyrule",
+        "price": 18,
+        "color": "red",
+        "image": "https://i.postimg.cc/T2SZmcqg/Removal-762-1.png",
+        "ticketsStart": 2601,
+        "ticketsEnd": 4360
+      },
+      {
+        "name": "Nintendo USB Type C Charging Cable",
+        "price": 13,
+        "color": "red",
+        "image": "https://i.postimg.cc/dVRXbcMj/Removal-528-2-1.png",
+        "ticketsStart": 4361,
+        "ticketsEnd": 5580
+      },
+      {
+        "name": "Nintendo Switch Tempered Screen Protector",
+        "price": 11.45,
+        "color": "purple",
+        "image": "https://i.postimg.cc/k4HhQn8q/Removal-560.png",
+        "ticketsStart": 5581,
+        "ticketsEnd": 8880
+      },
+      {
+        "name": "Nintendo Switch Analog Controller Thumb Grips",
+        "price": 6,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Xqy1xTcF/removal.png",
+        "ticketsStart": 8881,
+        "ticketsEnd": 13010
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 13011,
+        "ticketsEnd": 53360
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 53361,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712294434",
+    "slug": "Card-Case",
+    "name": "Card Case",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/case_3cd6c7d24cb0abc81c4ec4614d1d4077.png",
+    "price": 33.64,
+    "items": [
+      {
+        "name": "$100 Uber Eats Digital Card",
+        "price": 100,
+        "color": "gold",
+        "image": "https://i.postimg.cc/25KPwFRs/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Book: Dior By Dior",
+        "price": 60,
+        "color": "purple",
+        "image": "https://i.postimg.cc/xjRPVjqC/removal.png",
+        "ticketsStart": 10001,
+        "ticketsEnd": 30000
+      },
+      {
+        "name": "Resident Evil 8: Village Steam Digital Code",
+        "price": 25,
+        "color": "blue",
+        "image": "https://i.postimg.cc/sD6VGWHh/Screenshot-2024-04-03-130112-removebg-preview.png",
+        "ticketsStart": 30001,
+        "ticketsEnd": 60000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 60001,
+        "ticketsEnd": 80000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 80001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712295371",
+    "slug": "Chain-Collector",
+    "name": "Chain Collector",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/3e2a6f899b00fea7e60fb7fc522b76d6.png",
+    "price": 5.7,
+    "items": [
+      {
+        "name": "Supreme Handcuffs Keychain Silver",
+        "price": 71,
+        "color": "gold",
+        "image": "https://i.postimg.cc/qqN1m900/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 250
+      },
+      {
+        "name": "Supreme Raymay Pocket Microscope Keychain White",
+        "price": 41,
+        "color": "red",
+        "image": "https://i.postimg.cc/cCGcm6D7/removal.png",
+        "ticketsStart": 251,
+        "ticketsEnd": 750
+      },
+      {
+        "name": "BAPE Flame Keychain Blue",
+        "price": 30,
+        "color": "red",
+        "image": "https://i.postimg.cc/8c6DWX7X/removal.png",
+        "ticketsStart": 751,
+        "ticketsEnd": 1500
+      },
+      {
+        "name": "Victoria's Secret Flap Card Case Keychain White Perforarated",
+        "price": 27,
+        "color": "purple",
+        "image": "https://i.postimg.cc/59YFnxvT/removal.png",
+        "ticketsStart": 1501,
+        "ticketsEnd": 2300
+      },
+      {
+        "name": "New York Keychain",
+        "price": 12,
+        "color": "blue",
+        "image": "https://i.postimg.cc/CM3n2Ws1/Removal-364-1.png",
+        "ticketsStart": 2301,
+        "ticketsEnd": 20000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 20001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712327696",
+    "slug": "Rakeback-Gains",
+    "name": "Rakeback Gains",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/3394005be1b475bbd4815b07f4d24b86.png",
+    "price": 0.47,
+    "items": [
+      {
+        "name": "Nike Air Max 95 Smoke Grey",
+        "price": 129,
+        "color": "gold",
+        "image": "https://i.postimg.cc/PrdTNyty/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 2.5
+      },
+      {
+        "name": "HomePod Mini Blue",
+        "price": 114,
+        "color": "gold",
+        "image": "https://i.postimg.cc/tgnH8m5q/removal.png",
+        "ticketsStart": 3.5,
+        "ticketsEnd": 5
+      },
+      {
+        "name": "Supreme Handcuffs Keychain Silver",
+        "price": 71,
+        "color": "gold",
+        "image": "https://i.postimg.cc/qqN1m900/removal.png",
+        "ticketsStart": 6,
+        "ticketsEnd": 7.5
+      },
+      {
+        "name": "Iron Man LEGO Keyring",
+        "price": 11,
+        "color": "red",
+        "image": "https://i.postimg.cc/RVCxv0Rb/Removal-605-1.png",
+        "ticketsStart": 8.5,
+        "ticketsEnd": 1007.5
+      },
+      {
+        "name": "Casio 10160334 Watch Strap",
+        "price": 8,
+        "color": "red",
+        "image": "https://i.postimg.cc/BQCSSHsD/Removal-791-1.png",
+        "ticketsStart": 1008.5,
+        "ticketsEnd": 2007.5
+      },
+      {
+        "name": "2 Pack 8ML Atomizers",
+        "price": 2.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/gcM9gWy9/Removal-484-1.png",
+        "ticketsStart": 2008.5,
+        "ticketsEnd": 3507.5
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 3508.5,
+        "ticketsEnd": 8507.5
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 8508.5,
+        "ticketsEnd": 13507.5
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 13508.5,
+        "ticketsEnd": 18507.5
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 18508.5,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712327980",
+    "slug": "Cheap-Luxury",
+    "name": "Cheap Luxury",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/632aa804acc8e9c4d572c45fa0035c0e.png",
+    "price": 2.05,
+    "items": [
+      {
+        "name": "BAPE Big Ape Head Tee 'Beige'",
+        "price": 102,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/059/873/060/original/815982_00.png?action=crop&width=600",
+        "ticketsStart": 0,
+        "ticketsEnd": 150
+      },
+      {
+        "name": "Gucci Socks 'Camel/Dark Green'",
+        "price": 74,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/093/126/707/original/1097215_00.png.png?action=crop&width=360",
+        "ticketsStart": 151,
+        "ticketsEnd": 400
+      },
+      {
+        "name": "Supreme Glass Spray Bottle Red",
+        "price": 66,
+        "color": "gold",
+        "image": "https://i.postimg.cc/nhb3kRWb/removal.png",
+        "ticketsStart": 401,
+        "ticketsEnd": 550
+      },
+      {
+        "name": " BAPE ABC Camo Mask Blue",
+        "price": 38,
+        "color": "red",
+        "image": "https://i.postimg.cc/FFbQtBMp/removal.png",
+        "ticketsStart": 551,
+        "ticketsEnd": 680
+      },
+      {
+        "name": "Victoria's Secret Boxer Brief Heather Gray",
+        "price": 18,
+        "color": "red",
+        "image": "https://i.postimg.cc/MGBF7cx5/removal.png",
+        "ticketsStart": 681,
+        "ticketsEnd": 2810
+      },
+      {
+        "name": "Barbie Keychain",
+        "price": 4,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Df6YP3V9/Removal-728-1-1.png",
+        "ticketsStart": 2811,
+        "ticketsEnd": 9350
+      },
+      {
+        "name": "POP! Keychain Mickey Mouse",
+        "price": 3.75,
+        "color": "blue",
+        "image": "https://i.postimg.cc/gJJX8pqz/32568-1.png",
+        "ticketsStart": 9351,
+        "ticketsEnd": 12700
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 12701,
+        "ticketsEnd": 20050
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 20051,
+        "ticketsEnd": 45050
+      },
+      {
+        "name": "Fullsend $0.50 Voucher",
+        "price": 0.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/rw7RW3Zx/Untitled.png558855a780135adef6d6c9174d2c3783a109c09997cec7a2f8ca8a4ee2&format=webp&quality=lossless&",
+        "ticketsStart": 45051,
+        "ticketsEnd": 70050
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 70051,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712328402",
+    "slug": "Only-Drinks",
+    "name": "Only Drinks",
+    "image": "https://web.archive.org/web/20190104223532im_/https://app.mysterybrand.net/images/97eff3cb5d9469735d01e6c9590415bd.png",
+    "price": 2.33,
+    "items": [
+      {
+        "name": "Prime Hydration Drink Variety Pack 15 Pack",
+        "price": 22,
+        "color": "gold",
+        "image": "https://i.postimg.cc/0yMWv66v/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 2000
+      },
+      {
+        "name": "12 Pack, AriZona Sweet Tea",
+        "price": 15,
+        "color": "red",
+        "image": "https://i.postimg.cc/Kj8fH4Xd/Untitled.png",
+        "ticketsStart": 2001,
+        "ticketsEnd": 5500
+      },
+      {
+        "name": "Prime Hydration+ Stick Pack 18 Sticks",
+        "price": 8,
+        "color": "purple",
+        "image": "https://i.postimg.cc/bNdL0G9n/removal.png",
+        "ticketsStart": 5501,
+        "ticketsEnd": 12000
+      },
+      {
+        "name": "Prime Hydration Strawberry Watermelon",
+        "price": 3,
+        "color": "blue",
+        "image": "https://i.postimg.cc/k4YLTNrr/removal.png",
+        "ticketsStart": 12001,
+        "ticketsEnd": 23670
+      },
+      {
+        "name": "16 OZ can of CocaCola",
+        "price": 1,
+        "color": "blue",
+        "image": "https://i.postimg.cc/T1bPJ3y6/Untitled.png",
+        "ticketsStart": 23671,
+        "ticketsEnd": 45230
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 45231,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712329941",
+    "slug": "10-Console",
+    "name": "10% Console",
+    "image": "http://web.archive.org/web/20181013190750im_/https://mysterybrand.net/images/1e12be0828af5278a2dc84c43baa2110.png",
+    "price": 6.15,
+    "items": [
+      {
+        "name": "PS5 Console",
+        "price": 300,
+        "color": "gold",
+        "image": "https://i.postimg.cc/bNXrNkMN/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "Rechargeable Batteries for Xbox One/Xbox Series XS",
+        "price": 29.6,
+        "color": "red",
+        "image": "https://i.postimg.cc/L5jHZQ74/removal.png",
+        "ticketsStart": 1001,
+        "ticketsEnd": 2500
+      },
+      {
+        "name": "Death Stranding",
+        "price": 24,
+        "color": "red",
+        "image": "https://i.postimg.cc/fWYZCF2D/Screenshot-2024-04-03-132508-removebg-preview.png",
+        "ticketsStart": 2501,
+        "ticketsEnd": 3750
+      },
+      {
+        "name": "Carry Case Nintendo Switch & OLED",
+        "price": 24,
+        "color": "red",
+        "image": "https://i.postimg.cc/65N6Nw28/Screenshot-2024-04-03-130906-removebg-preview.png",
+        "ticketsStart": 3751,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Call of Duty: Ghosts PlayStation 3",
+        "price": 15.6,
+        "color": "purple",
+        "image": "https://i.postimg.cc/y8jFwsjK/Removal-888-1-1.png",
+        "ticketsStart": 5001,
+        "ticketsEnd": 6250
+      },
+      {
+        "name": "Tom Clanceys Rainbow Six Siege",
+        "price": 8.49,
+        "color": "purple",
+        "image": "https://i.postimg.cc/CMC55zVG/removal.png",
+        "ticketsStart": 6251,
+        "ticketsEnd": 7500
+      },
+      {
+        "name": "Nintendo Switch Analog Controller Thumb Grips",
+        "price": 6,
+        "color": "blue",
+        "image": "https://i.postimg.cc/Xqy1xTcF/removal.png",
+        "ticketsStart": 7501,
+        "ticketsEnd": 8600
+      },
+      {
+        "name": "Bioshock Infinite Steam Digital Code",
+        "price": 5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/vZZ1x97R/Screenshot-2024-04-03-132216-removebg-preview.png",
+        "ticketsStart": 8601,
+        "ticketsEnd": 10000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 10001,
+        "ticketsEnd": 35000
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 35001,
+        "ticketsEnd": 60000
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 60001,
+        "ticketsEnd": 85000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 85001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712330921",
+    "slug": "BeastMode-Case",
+    "name": "BeastMode Case",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/f7dac430865228c6a8c8598b306f00bb.png",
+    "price": 4.02,
+    "items": [
+      {
+        "name": "Mr Beast Basketball",
+        "price": 32,
+        "color": "gold",
+        "image": "https://i.postimg.cc/g0wnNWBN/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "Mr Beast Particle Gaming Mouse Pad",
+        "price": 24.5,
+        "color": "red",
+        "image": "https://i.postimg.cc/ZRp0zLmN/Removal-899-1-1.png",
+        "ticketsStart": 3001,
+        "ticketsEnd": 6000
+      },
+      {
+        "name": "Mr Beast Feastables Crunch, Milk Chocolate, Deez Nutz",
+        "price": 19,
+        "color": "red",
+        "image": "https://i.postimg.cc/fW7kH5Bn/Removal-532-1.png",
+        "ticketsStart": 6001,
+        "ticketsEnd": 9000
+      },
+      {
+        "name": "Mr Beast Particle Socks Black/White",
+        "price": 14,
+        "color": "purple",
+        "image": "https://i.postimg.cc/26dfTLkr/removal.png",
+        "ticketsStart": 9001,
+        "ticketsEnd": 12000
+      },
+      {
+        "name": "Mr Beast Lanyard Pack",
+        "price": 9,
+        "color": "purple",
+        "image": "https://i.postimg.cc/HkNLJNs5/Removal-815-1.png",
+        "ticketsStart": 12001,
+        "ticketsEnd": 14000
+      },
+      {
+        "name": "Mr Beast Sticker Pack 2.0",
+        "price": 6.6,
+        "color": "blue",
+        "image": "https://i.postimg.cc/85QP4rvz/crop-sticker-1-1-1.png",
+        "ticketsStart": 14001,
+        "ticketsEnd": 16000
+      },
+      {
+        "name": "Mr Beast Shoelace Set 2 Pack Pink/Blue",
+        "price": 6,
+        "color": "blue",
+        "image": "https://i.postimg.cc/05C2Gjy9/Removal-788-1-1.png",
+        "ticketsStart": 16001,
+        "ticketsEnd": 17000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 17001,
+        "ticketsEnd": 20000
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 20001,
+        "ticketsEnd": 45000
+      },
+      {
+        "name": "Fullsend $0.50 Voucher",
+        "price": 0.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/rw7RW3Zx/Untitled.png558855a780135adef6d6c9174d2c3783a109c09997cec7a2f8ca8a4ee2&format=webp&quality=lossless&",
+        "ticketsStart": 45001,
+        "ticketsEnd": 70000
+      },
+      {
+        "name": "Fullsend $0.25 Voucher",
+        "price": 0.25,
+        "color": "grey",
+        "image": "https://i.postimg.cc/QxpQXXfw/Untitled.png7171339a2992186728433d1ebc595e2e78cb254086fc883242ece7499b&format=webp&quality=lossless&",
+        "ticketsStart": 70001,
+        "ticketsEnd": 95000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 95001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712320001",
+    "slug": "Shoe-Dreamer",
+    "name": "Shoe Dreamer",
+    "image": "https://web.archive.org/web/20190312044411im_/https://app.mysterybrand.net/images/39af27574fb7d8b9ebaf778a9cfd4815.png",
+    "price": 7.52,
+    "items": [
+      {
+        "name": "A Ma Maniére x Wmns Air Jordan 5 Retro 'Dawn'",
+        "price": 142,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/095/078/025/original/1243222_00.png.png?width=100",
+        "ticketsStart": 0,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "Wmns Air Force 1 Low 'Valentine's Day 2024'",
+        "price": 121,
+        "color": "gold",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/948/373/original/1362888_00.png.png?action=crop&width=360",
+        "ticketsStart": 1001,
+        "ticketsEnd": 3000
+      },
+      {
+        "name": "Dunk Low CO.JP 'Reverse Curry' 2024",
+        "price": 88,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/097/104/892/original/1249413_00.png.png?width=100",
+        "ticketsStart": 3001,
+        "ticketsEnd": 5000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 5001,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712296101",
+    "slug": "Gamers-Paradise",
+    "name": "Gamer's Paradise",
+    "image": "https://web.archive.org/web/20190322070756im_/https://app.mysterybrand.net/images/3b933644584236b68d989c5b3fceb0ff.png",
+    "price": 8.17,
+    "items": [
+      {
+        "name": "Acer 27in 170Hz 2K Gaming Monitor",
+        "price": 155,
+        "color": "gold",
+        "image": "https://c1.neweggimages.com/ProductImageCompressAll300/24-011-452-01.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 100
+      },
+      {
+        "name": "Razer Basilisk Ultimate HyperSpeed Wireless Gaming Mouse",
+        "price": 95,
+        "color": "gold",
+        "image": "https://i.postimg.cc/pTF9qZ74/removal.png",
+        "ticketsStart": 101,
+        "ticketsEnd": 850
+      },
+      {
+        "name": "Razer DeathAdder Essential Gaming Mouse",
+        "price": 33.33,
+        "color": "red",
+        "image": "https://i.postimg.cc/CxxzWYXj/removal.png",
+        "ticketsStart": 851,
+        "ticketsEnd": 1850
+      },
+      {
+        "name": "Wage Universal Wired Gaming Headset",
+        "price": 17,
+        "color": "purple",
+        "image": "https://i.postimg.cc/KYK48fZj/removal.png",
+        "ticketsStart": 1851,
+        "ticketsEnd": 26850
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 26851,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712343687",
+    "slug": "Budget-VR",
+    "name": "Budget VR",
+    "image": "https://web.archive.org/web/20190322070756im_/https://app.mysterybrand.net/images/62c8d96b28608587583b62f57cf1cace.png",
+    "price": 2.57,
+    "items": [
+      {
+        "name": "VR LENS COVER PROTECTOR",
+        "price": 19,
+        "image": "https://i.postimg.cc/50xDf4dm/removal.png",
+        "color": "red",
+        "ticketsStart": 0,
+        "ticketsEnd": 1000
+      },
+      {
+        "name": "VR SILICON FACE COVER FOR QUEST 2",
+        "price": 13,
+        "color": "red",
+        "image": "https://i.postimg.cc/DfpRK3Cq/removal.png",
+        "ticketsStart": 1001,
+        "ticketsEnd": 6000
+      },
+      {
+        "name": "VR PROTECTIVE COVER FOR OCULUS QUEST 2 GREEN",
+        "price": 6,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Z5pQ3BJc/removal.png",
+        "ticketsStart": 6001,
+        "ticketsEnd": 16000
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 16001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712613767",
+    "slug": "Femboy-Starter-Pack",
+    "name": "Femboy Starter Pack",
+    "image": "https://web.archive.org/web/20190104223531im_/https://app.mysterybrand.net/images/case_480e48abab94b35a4bc4229b4fbb155a.png",
+    "price": 2.55,
+    "items": [
+      {
+        "name": "IKEA Blahaj Blue / Cyan Shark",
+        "price": 22.75,
+        "color": "red",
+        "image": "hhttps://i.postimg.cc/d3gWZvXp/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 4450
+      },
+      {
+        "name": "Black and White Striped ThighHighs",
+        "price": 6.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/Dz5Bd1Hq/Untitled.png",
+        "ticketsStart": 4451,
+        "ticketsEnd": 8200
+      },
+      {
+        "name": "Pink and White Striped ThighHighs",
+        "price": 6.25,
+        "color": "purple",
+        "image": "https://i.postimg.cc/zBBpdVY4/Untitled.png",
+        "ticketsStart": 8201,
+        "ticketsEnd": 11950
+      },
+      {
+        "name": "Black Cat Ears Headband",
+        "price": 3.75,
+        "color": "blue",
+        "image": "https://i.postimg.cc/Gp3ZC31x/Untitled.png",
+        "ticketsStart": 11951,
+        "ticketsEnd": 16350
+      },
+      {
+        "name": "2 Pack 8ML Atomizers",
+        "price": 2.5,
+        "image": "https://i.postimg.cc/gcM9gWy9/Removal-484-1.png",
+        "ticketsStart": 16351,
+        "ticketsEnd": 32900
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 32901,
+        "ticketsEnd": 50000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 50001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712614466",
+    "slug": "OG-Console",
+    "name": "OG Console",
+    "image": "http://web.archive.org/web/20181013190750im_/https://mysterybrand.net/images/1e12be0828af5278a2dc84c43baa2110.png",
+    "price": 9.91,
+    "items": [
+      {
+        "name": "Playstation 4 Console with Controller ",
+        "price": 189,
+        "color": "gold",
+        "image": "https://i.postimg.cc/Gh0VpxC2/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 1750
+      },
+      {
+        "name": "Wii Console with Controller and Strap",
+        "price": 35,
+        "color": "red",
+        "image": "https://i.postimg.cc/DfGpR4XK/Untitled.png",
+        "ticketsStart": 1751,
+        "ticketsEnd": 5200
+      },
+      {
+        "name": "3DS Blue and Black, Normal",
+        "price": 28,
+        "color": "purple",
+        "image": "https://i.postimg.cc/qMXbvfwb/Untitled.png",
+        "ticketsStart": 5201,
+        "ticketsEnd": 12750
+      },
+      {
+        "name": "PS3 Black Basic Controller",
+        "price": 13.5,
+        "color": "blue",
+        "image": "https://i.postimg.cc/fyQCM59Q/Untitled.png",
+        "ticketsStart": 12751,
+        "ticketsEnd": 18400
+      },
+      {
+        "name": "AMAZON Basics HDMI Cable 6 FT",
+        "price": 6.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/v85X0RJY/removal.png",
+        "ticketsStart": 18401,
+        "ticketsEnd": 35960
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 35961,
+        "ticketsEnd": 50960
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 50961,
+        "ticketsEnd": 64460
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 64461,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712798027",
+    "slug": "20-Baller",
+    "name": "20% Baller",
+    "image": "https://web.archive.org/web/20190104151148im_/https://app.mysterybrand.net/images/3b933644584236b68d989c5b3fceb0ff.png",
+    "price": 35.28,
+    "items": [
+      {
+        "name": "Moncler Basile Slides Black",
+        "price": 400,
+        "color": "gold",
+        "image": "https://i.postimg.cc/kXv21wMR/removal.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 450
+      },
+      {
+        "name": "OVO NBA Team Icons OG Owl Hoodie Black",
+        "price": 318,
+        "color": "gold",
+        "image": "https://i.postimg.cc/SKv2LsSZ/removal.png",
+        "ticketsStart": 451,
+        "ticketsEnd": 800
+      },
+      {
+        "name": "Casio GShock Rick and Morty DW5600RM211",
+        "price": 315,
+        "color": "gold",
+        "image": "https://i.postimg.cc/BQTFW4p6/removal.png",
+        "ticketsStart": 801,
+        "ticketsEnd": 1020
+      },
+      {
+        "name": "PS5 Console",
+        "price": 300,
+        "color": "gold",
+        "image": "https://i.postimg.cc/LXJPGPQK/Untitled.png",
+        "ticketsStart": 1021,
+        "ticketsEnd": 1270
+      },
+      {
+        "name": "Casio GShock Dragonball Z GA-110JDB1A4",
+        "price": 300,
+        "color": "gold",
+        "image": "https://i.postimg.cc/pLvDyprz/removal.png",
+        "ticketsStart": 1271,
+        "ticketsEnd": 1920
+      },
+      {
+        "name": "Air Jordan 1 Retro High '85 OG 'Metallic Burgundy'",
+        "price": 241,
+        "color": "red",
+        "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/096/293/508/original/BQ4422_161.png.png?width=100",
+        "ticketsStart": 1921,
+        "ticketsEnd": 3370
+      },
+      {
+        "name": "Playstation 4 Console with Controller ",
+        "price": 230,
+        "color": "red",
+        "image": "https://i.postimg.cc/Gh0VpxC2/Untitled.png",
+        "ticketsStart": 3371,
+        "ticketsEnd": 5580
+      },
+      {
+        "name": "Nike LeBron NXXT Gen AMPD",
+        "price": 210,
+        "color": "red",
+        "image": "https://i.postimg.cc/zv9VsPbT/removal.png",
+        "ticketsStart": 5581,
+        "ticketsEnd": 8790
+      },
+      {
+        "name": "Casio GShock GM5600SG-9",
+        "price": 156,
+        "color": "purple",
+        "image": "https://i.postimg.cc/260WKw7x/removal.png",
+        "ticketsStart": 8791,
+        "ticketsEnd": 12000
+      },
+      {
+        "name": "Versace Eros Pour Femme Eau de Parfum Spray 30ml",
+        "price": 90.5,
+        "color": "purple",
+        "image": "https://i.postimg.cc/MGjrxnFR/removal.png",
+        "ticketsStart": 12001,
+        "ticketsEnd": 16000
+      },
+      {
+        "name": "Bape Grey Camo Chain",
+        "price": 25,
+        "color": "blue",
+        "image": "https://i.postimg.cc/76YPdNfm/removal-ai-3094db92-ef18-4f0e-9691-922dbaa50772-bape-ape-head-city-camo-keychai-5or-QEem.png",
+        "ticketsStart": 16001,
+        "ticketsEnd": 20000
+      },
+      {
+        "name": "Fullsend $2.50 Voucher",
+        "price": 2.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/VsJ4cPQP/Untitled.png320d93d4d5de31ea95528cc20b7d706908862585b18ee7428c0f0dadfe&format=webp&quality=lossless&",
+        "ticketsStart": 20001,
+        "ticketsEnd": 40000
+      },
+      {
+        "name": "Fullsend $1.00 Voucher",
+        "price": 1,
+        "color": "grey",
+        "image": "https://i.postimg.cc/fb6njjYV/Untitled.png96d6b91c464354be4c67be6790642cf7c54d3f1fcfcb74189c13d4310e&format=webp&quality=lossless&",
+        "ticketsStart": 40001,
+        "ticketsEnd": 60000
+      },
+      {
+        "name": "Fullsend $0.50 Voucher",
+        "price": 0.5,
+        "color": "grey",
+        "image": "https://i.postimg.cc/rw7RW3Zx/Untitled.png558855a780135adef6d6c9174d2c3783a109c09997cec7a2f8ca8a4ee2&format=webp&quality=lossless&",
+        "ticketsStart": 60001,
+        "ticketsEnd": 80000
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 80001,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+    "id": "1712796751",
+    "slug": "only-apple",
+    "name": "Only Apple",
+    "image": "http://web.archive.org/web/20181013190747im_/http://mysterybrand.net/images/case_480e48abab94b35a4bc4229b4fbb155a.png",
+    "price": 37.27,
+    "items": [
+      {
+        "name": "2020 Apple MacBook Air with Apple M1 Chip",
+        "price": 968,
+        "color": "gold",
+        "image": "https://i.postimg.cc/3N0scLHM/Untitled.png",
+        "ticketsStart": 0,
+        "ticketsEnd": 300
+      },
+      {
+        "name": "Apple 2023 Mac Mini Desktop Computer M2 chip with 8‑core CPU and 10‑core GPU",
+        "price": 494,
+        "color": "gold",
+        "image": "https://i.postimg.cc/CL3hSqvH/Untitled.png",
+        "ticketsStart": 301,
+        "ticketsEnd": 550
+      },
+      {
+        "name": "Apple Watch Series 5 (GPS + Cellular, 40MM)",
+        "price": 297,
+        "color": "gold",
+        "image": "https://i.postimg.cc/43thXGbn/Untitled.png",
+        "ticketsStart": 551,
+        "ticketsEnd": 800
+      },
+      {
+        "name": "Apple IPHONE 11 Matte Black Fullsize",
+        "price": 294,
+        "color": "gold",
+        "image": "https://i.postimg.cc/WbWZnX1p/Untitled.png",
+        "ticketsStart": 801,
+        "ticketsEnd": 2350
+      },
+      {
+        "name": "Apple iPad (9th Generation): with A13 Bionic chip",
+        "price": 249.5,
+        "color": "red",
+        "image": "https://i.postimg.cc/ZnjdXLPc/Untitled.png",
+        "ticketsStart": 2351,
+        "ticketsEnd": 2600
+      },
+      {
+        "name": "Apple Pencil (2nd generation)",
+        "price": 153,
+        "color": "red",
+        "image": "https://i.postimg.cc/6qBZHPZq/removal.png",
+        "ticketsStart": 2601,
+        "ticketsEnd": 4320
+      },
+      {
+        "name": "Apple Airpod Pro 2nd Generation White",
+        "price": 135,
+        "color": "red",
+        "image": "https://i.postimg.cc/m28YnT8s/Untitled.png",
+        "ticketsStart": 4321,
+        "ticketsEnd": 5570
+      },
+      {
+        "name": "Apple Magic Keyboard White FullSize Keyboard",
+        "price": 103,
+        "color": "red",
+        "image": "https://m.media-amazon.com/images/I/71i+D5oZPWL._AC_SX679_.jpg",
+        "ticketsStart": 5571,
+        "ticketsEnd": 8300
+      },
+      {
+        "name": "Apple Iphone 8 with HomeButton Rose",
+        "price": 102.59,
+        "color": "purple",
+        "image": "https://i.postimg.cc/KvZ7Q17f/Untitled.png",
+        "ticketsStart": 8301,
+        "ticketsEnd": 22800
+      },
+      {
+        "name": "Apple AirTag",
+        "price": 23.99,
+        "color": "blue",
+        "image": "https://i.postimg.cc/LXLkQf0C/Untitled.png",
+        "ticketsStart": 22801,
+        "ticketsEnd": 30360
+      },
+      {
+        "name": "Fullsend $0.01 Voucher",
+        "price": 0.01,
+        "color": "grey",
+        "image": "https://i.postimg.cc/5tr82jL5/Untitled.pnge40a3558400403cbb4e92e3a7db9d4bac002165df68159e33cdc341ea&format=webp&quality=lossless&",
+        "ticketsStart": 30361,
+        "ticketsEnd": 100000
+      }
+    ]
+  },
+  {
+        "id": "1714515905",
+        "slug": "BGOLD Case",
+        "name": "BGOLD Case",
+        "image": "D",
+        "price": 46.63354729,
+        "items": [
+          {
+            "name": "Tudor Black Bay GMT M79830RB",
+            "price": 3090,
+            "image": "https://i.postimg.cc/SNVNDnKt/removal-ai-c48256e6-f473-4f0c-8918-3da9bf08aafd-image.png",
+            "ticketsStart": 0,
+            "ticketsEnd": 100
+          },
+          {
+            "name": "Casio GShock  BAPE Limited Edition  GA110",
+            "price": 864,
+            "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/081/483/898/original/1089405_00.png.png?action=crop&width=360",
+            "ticketsStart": 101,
+            "ticketsEnd": 1100
+          },
+          {
+            "name": "Casio GShock Dragonball Z GA-110JDB1A4",
+            "price": 300,
+            "image": "https://i.postimg.cc/pLvDyprz/removal.png",
+            "ticketsStart": 1101,
+            "ticketsEnd": 2600
+          },
+          {
+            "name": "Sp5der Beluga Hoodie 'Grey'",
+            "price": 200,
+            "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/250/471/original/1185693_00.png.png?action=crop&width=360",
+            "ticketsStart": 2601,
+            "ticketsEnd": 4100
+          },
+          {
+            "name": "Burberry Striped Bucket Hat",
+            "price": 133.5,
+            "image": "https://i.postimg.cc/43HffwQr/removal-ai-6b33c3cf-8441-4b95-ab92-01b8a7cc0993-image-1-1.png",
+            "ticketsStart": 4101,
+            "ticketsEnd": 9100
+          },
+          {
+            "name": "Book: Dior By Dior",
+            "price": 60,
+            "image": "https://i.postimg.cc/xjRPVjqC/removal.png",
+            "ticketsStart": 9101,
+            "ticketsEnd": 24100
+          },
+          {
+            "name": "MR Beast Basketball",
+            "price": 30,
+            "image": "https://i.postimg.cc/g0wnNWBN/removal.png",
+            "ticketsStart": 24101,
+            "ticketsEnd": 49100
+          },
+          {
+            "name": "Fullsend $0.01 Voucher",
+            "price": 0.01,
+            "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+            "ticketsStart": 49101,
+            "ticketsEnd": 99190
+          }
+        ]
+      },
+      {
+            "id": "1714508599",
+            "slug": "Dreamer",
+            "name": "Dreamer",
+            "image": "http://web.archive.org/web/20181013190752im_/https://mysterybrand.net/images/9719889bd9dc03d1177665a948035f13.png",
+            "price": 85.28408526,
+            "items": [
+              {
+                "name": "Apple Virtual Vision Pro",
+                "price": 3000.5,
+                "color": "gold",
+                "image": "https://i.postimg.cc/L4tsgCFS/removal-ai-db712e73-6b67-485d-8042-8f59944f73f8-image-1.png",
+                "ticketsStart": 0,
+                "ticketsEnd": 1000
+              },
+              {
+                "name": "Mixed Gemstone Stering Silver Ring",
+                "price": 1973.33,
+                "color": "gold",
+                "image": "https://i.postimg.cc/jSFqYBPH/Removal-845-1-1.png",
+                "ticketsStart": 1001,
+                "ticketsEnd": 2000
+              },
+              {
+                "name": "Chrome Hearts Plus Cross Allover Print Horseshoe Logo Hoodie 'Black'",
+                "price": 1000,
+                "color": "gold",
+                "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/710/933/original/1190103_00.png.png?action=crop&width=360",
+                "ticketsStart": 2001,
+                "ticketsEnd": 3000
+              },
+              {
+                "name": "PS5 Console",
+                "price": 300,
+                 "color": "purple",
+                "image": "https://i.postimg.cc/bNXrNkMN/Untitled.png",
+                "ticketsStart": 3001,
+                "ticketsEnd": 5000
+              },
+              {
+                "name": "AMP All In Hoodie",
+                "price": 114,
+                "color": "blue",
+                "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/087/250/471/original/1185693_00.png.png?action=crop&width=360",
+                "ticketsStart": 5001,
+                "ticketsEnd": 10000
+              },
+              {
+                "name": "Trident 32GB (2x16) RAM RGB DDR5",
+                "price": 92,
+                "color": "blue",
+                "image": "https://c1.neweggimages.com/ProductImageCompressAll300/20-374-351-10.png",
+                "ticketsStart": 10001,
+                "ticketsEnd": 15000
+              },
+              {
+                "name": "Stussy Stock Tone Logo Tee 'Red'",
+                "price": 48,
+               "color": "grey",
+                "image": "https://image.goat.com/transform/v1/attachments/product_template_pictures/images/058/741/834/original/806236_00.png.png?action=crop&width=360",
+                "ticketsStart": 15001,
+                "ticketsEnd": 18000
+              },
+              {
+                "name": "Barbie Keychain",
+                "price": 4,
+                "color": "grey",
+                "image": "https://i.postimg.cc/6593vt9D/Removal-503-1.png",
+                "ticketsStart": 18001,
+                "ticketsEnd": 20000
+              },
+              {
+                "name": "Fullsend $0.01 Voucher",
+                "price": 0.01,
+                "color": "grey",
+                "image": "https://i.postimg.cc/5tr82jL5/Untitled.png",
+                "ticketsStart": 20001,
+                "ticketsEnd": 100000
+              }
+            ]
+        }
+]
