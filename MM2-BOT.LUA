@@ -1,4 +1,4 @@
-local api = "https://api.mm2stash.com/api/mm2/"
+local api = "https://api.mm2hyper.com/api/mm2/"
 local Bot, You = game.Players.LocalPlayer, game.Players.LocalPlayer
 
 local Players = game:GetService("Players")
